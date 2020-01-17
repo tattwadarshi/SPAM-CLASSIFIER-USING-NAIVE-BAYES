@@ -8,4 +8,4 @@
 
 The main objective is to classify the mesaages whether it is spam or ham. We use the Naive Bayes Classifier for this purpose. 
 
-The csv file and the main code are uploaded for reference. This project has been carried out under the supervision of Dr. Ryan Ahmed.
+The csv file and the main code are uploaded for reference. 
